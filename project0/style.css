@@ -1,0 +1,29 @@
+.hb-header {
+  position: center;
+  background-color: blue;
+}
+
+.hb-header .header-wrapper {
+  margin: 0 auto;
+  max-width: 1024px;
+  background-color: blue;
+}
+
+.fondo {
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+@media only screen and (max-width: 700px) {
+  .fondo {
+    background-color: rgb(197, 186, 34);
+  }
+}
+  
+
+/*# sourceMappingURL=style.css.map */
