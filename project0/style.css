@@ -1,6 +1,25 @@
+
+/* Property */
+/* background-color */
+/* justify-content */
+/* flex-direction */
+/* display*/
+/* color */
+
+
+
+/* Selectors */
+/* div  */
+/* .fondo */
+/* * */
+/* #title */
+
+*{
+
+}
 .hb-header {
   position: center;
-  background-color: blue;
+  background-color: black;
 }
 
 .hb-header .header-wrapper {
@@ -9,8 +28,9 @@
   background-color: blue;
 }
 
+
 .fondo {
-  background-color: lightblue;
+  background-color: rgb(255, 255, 255);
 }
 h1 {
   text-align: center;
@@ -25,5 +45,20 @@ h1 {
   }
 }
   
-
+#title{
+  color: white;
+  padding: 2%;
+}
+.image{
+  border-radius: 2%;
+}
+footer{
+  background-color: black;
+  color: white;
+  margin-top: 5%;
+  height: max-content;
+}
+a{
+  color: white !important;
+}
 /*# sourceMappingURL=style.css.map */
